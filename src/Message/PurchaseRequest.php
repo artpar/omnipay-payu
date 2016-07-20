@@ -1,6 +1,6 @@
 <?php
 
-namespace Omnipay\PayU\Message;
+namespace Omnipay\PayUIndia\Message;
 
 use Omnipay\Common\CreditCard;
 use Omnipay\Common\Item;

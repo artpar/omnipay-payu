@@ -1,7 +1,7 @@
 {
     "name": "artpar/omnipay-payuindia",
     "type": "library",
-    "description": "Payu.com driver for the Omnipay payment processing library",
+    "description": "Payu.com driver for the Omnipay payment processing library. This is different from payu.com.tr",
     "keywords": [
         "gateway",
         "merchant",

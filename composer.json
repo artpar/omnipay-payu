@@ -1,7 +1,7 @@
 {
-    "name": "omnipay/payu",
+    "name": "omnipay/payuindia",
     "type": "library",
-    "description": "PayU driver for the Omnipay payment processing library",
+    "description": "Payu.com driver for the Omnipay payment processing library",
     "keywords": [
         "gateway",
         "merchant",
@@ -11,12 +11,12 @@
         "payu",
         "purchase"
     ],
-    "homepage": "https://github.com/efesaid/omnipay-payu",
+    "homepage": "https://github.com/artpar/omnipay-payuindia",
     "license": "MIT",
     "authors": [
         {
-            "name": "Said İmamoğlu",
-            "email": "said.imamoglu@biberltd.com"
+            "name": "Parth Mudgal",
+            "email": "artpar@gmail.com"
         },
         {
             "name": "Omnipay Contributors",
@@ -24,7 +24,7 @@
         }
     ],
     "autoload": {
-        "psr-4": { "Omnipay\\PayU\\" : "src/" }
+        "psr-4": { "Omnipay\\PayUIndia\\" : "src/" }
     },
     "require": {
         "omnipay/common": "~2.0"
